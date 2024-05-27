@@ -1,0 +1,1 @@
+export const Titulo= "Bienvenidos a mi portafolio"
